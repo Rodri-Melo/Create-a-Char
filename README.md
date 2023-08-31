@@ -1,13 +1,14 @@
-# Api Project
+# Create-a-Char
+
 
 ## Descrição
 
-Api Project é um projeto fullstack que oferece uma solução para criar, visualizar, atualizar e excluir informações de personagens fictícios. 
+Create-a-Char é um projeto fullstack que oferece uma solução para criar, visualizar, atualizar e excluir informações de personagens fictícios. 
 Desenvolvido com React, Node.js e MongoDB, o projeto permite que você crie perfis de personagens com detalhes como nome, classe, vida, ataque, defesa e velocidade. 
 
 ## Tecnologias e Ferramentas
 
-Node.js, MongoDB e Mongoose.
+React, Node.js, MongoDB e Mongoose.
 
 ## Instalação
 
